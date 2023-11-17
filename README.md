@@ -4,7 +4,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://gleeful-wisp-665433.netlify.app/
 
 ### Screenshot
 
